@@ -3,7 +3,7 @@
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
 
-* Download `Jupyter` file from [here](https://github.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/blob/main/Build%20and%20Deploy%20Machine%20Learning%20Solutions%20with%20Vertex%20AI%20Challenge%20Lab/vertex-challenge-lab-v1.0.0.ipynb)
+* Download `Jupyter` file from [here](https://github.com/Titash-shil/Build-and-Deploy-Machine-Learning-Solutions-with-Vertex-AI-Challenge-Lab-GSP354/blob/main/QWIKLAB_EXPLORERS_vertex-challenge-lab-v1.0.0.ipynb)
 
 1. In your notebook, click the **Terminal**.
 
